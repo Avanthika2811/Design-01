@@ -1,0 +1,77 @@
+.flower
+{
+    margin-left: 650px;
+    margin-top: -150px;
+}
+.head3
+{
+    border-left: 10px solid #53012a;
+    border-radius: 5px;
+    
+}
+#img1
+{
+    margin-left: 200px;
+    margin-top: 40px;
+}
+#head1
+{
+    margin-left: 20px;
+    margin-top: 50px;
+    font-size: 120px;
+    font-family: cursive;
+    color:#4d0026fd;
+}
+#head2
+{
+    font-size: 18px;
+    margin-top: -100px;
+    margin-left: 20px;
+    font-family: monospace;
+    font-weight: -10px;
+    color: #530048;
+
+}
+#web
+{
+    margin-left: 220px;
+    font-size: 60px;
+}
+#span
+{
+    margin-left: 80px; 
+}
+a
+{
+    color:black;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top:-90px;
+    margin-left: 40px;
+}
+button
+{
+    margin-top: -90px;
+    outline-color: whitesmoke;
+    background: white;
+    border-radius: 10px;
+    margin-left: 90px;
+    width: 140px;
+    font-size: 12px;
+    font-weight: bold;
+}
+.para
+{
+    border-right: 10px solid #53012a;
+    border-radius: 5px;
+    margin-left: 250px;
+    margin-top: -190px;
+    width: 400px;
+    height: 190px;
+    font-size: 22px;
+    word-spacing: 10px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bolder;
+    color: #530048;
+
+}
